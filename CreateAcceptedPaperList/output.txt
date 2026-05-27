@@ -1,0 +1,499 @@
+ICSE<SEP>F<SEP>3DGen: AI-Assisted Generation of Provably Correct Binary Format Parsers
+ICSE<SEP>F<SEP>A Catalog of Micro Frontends Anti-patterns
+ICSE<SEP>F<SEP>Accessibility Issues in Ad-Driven Web Applications
+ICSE<SEP>F<SEP>Accounting for Missing Events in Statistical Information Leakage Analysis
+ICSE<SEP>F<SEP>ADAMAS: Adaptive Domain-Aware Performance Anomaly Detection in Cloud Service Systems
+ICSE<SEP>F<SEP>A Differential Testing Framework to Identify Critical AV Failures Leveraging Arbitrary Inputs
+ICSE<SEP>F<SEP>A First Look at Conventional Commits Classification
+ICSE<SEP>F<SEP>A Large-Scale Study of Model Integration in ML-Enabled Software Systems
+ICSE<SEP>F<SEP>Aligning the Objective of LLM-based Program Repair
+ICSE<SEP>F<SEP>A Little Goes a Long Way: Tuning Configuration Selection for Continuous Kernel Fuzzing
+ICSE<SEP>F<SEP>A Multi-Agent Approach for REST API Testing with Semantic Graphs and LLM-Driven Inputs
+ICSE<SEP>F<SEP>A Multiple Representation Transformer with Optimized Abstract Syntax Tree for Efficient Code Clone Detection
+ICSE<SEP>F<SEP>Analyzing the Feasibility of Adopting Google's Nonce-Based CSP Solutions on Websites
+ICSE<SEP>F<SEP>An Empirical Study of Proxy Smart Contracts at the Ethereum Ecosystem Scale
+ICSE<SEP>F<SEP>An Empirical Study on Automatically Detecting AI-Generated Source Code: How Far Are We?
+ICSE<SEP>F<SEP>An Empirical Study on Commit Message Generation using LLMs via In-Context Learning
+ICSE<SEP>F<SEP>An Empirical Study on Package-Level Deprecation in Python Ecosystem
+ICSE<SEP>F<SEP>An Empirical Study on Reproducible Packaging in Open-Source Ecosystems
+ICSE<SEP>F<SEP>An Exploratory Study of ML Sketches and Visual Code Assistants
+ICSE<SEP>F<SEP>An Exploratory Study on the Engineering of Security Features
+ICSE<SEP>F<SEP>An Extensive Empirical Study of Nondeterministic Behavior in Static Analysis Tools
+ICSE<SEP>F<SEP>An LLM-Based Agent-Oriented Approach for Automated Code Design Issue Localization
+ICSE<SEP>F<SEP>Answering User Questions about Machine Learning Models through Standardized Model Cards
+ICSE<SEP>F<SEP>Are LLMs Correctly Integrated into Software Systems?
+ICSE<SEP>F<SEP>Are We Learning the Right Features? A Framework for Evaluating DL-Based Software Vulnerability Detection Solutions
+ICSE<SEP>F<SEP>AssetHarvester: A Static Analysis Tool for Detecting Secret-Asset Pairs in Software Artifacts
+ICSE<SEP>F<SEP>A Study of Undefined Behavior Across Foreign Function Boundaries in Rust Libraries
+ICSE<SEP>F<SEP>A Tale of Two DL Cities: When Library Tests Meet Compiler
+ICSE<SEP>F<SEP>A Test Oracle for Reinforcement Learning Software based on Lyapunov Stability Control Theory
+ICSE<SEP>F<SEP>Automated Accessibility Analysis of Dynamic Content Changes on Mobile Apps
+ICSE<SEP>F<SEP>Automated Generation of Accessibility Test Reports from Recorded User Transcripts
+ICSE<SEP>F<SEP>Automated Test Generation For Smart Contracts via On-Chain Test Case Augmentation and Migration
+ICSE<SEP>F<SEP>Automated, Unsupervised, and Auto-parameterized Inference of Data Patterns and Anomaly Detection
+ICSE<SEP>F<SEP>Automating a Complete Software Test Process Using LLMs: An Automotive Case Study
+ICSE<SEP>F<SEP>BDefects4NN: A Backdoor Defect Database for Controlled Localization Studies in Neural Networks
+ICSE<SEP>F<SEP>Between Lines of Code: Unraveling the Distinct Patterns of Machine and Human Programmers
+ICSE<SEP>F<SEP>Boosting Code-line-level Defect Prediction with Spectrum Information and Causality Analysis
+ICSE<SEP>F<SEP>Boosting Path-Sensitive Value Flow Analysis via Removal of Redundant Summaries
+ICSE<SEP>F<SEP>Boosting Static Resource Leak Detection via LLM-based Resource-Oriented Intention Inference
+ICSE<SEP>F<SEP>BSan: A Powerful Identifier-Based Hardware-Independent Memory Error Detector for COTS Binaries
+ICSE<SEP>F<SEP>Calibration and Correctness of Language Models for Code
+ICSE<SEP>F<SEP>Can an LLM find its way around a Spreadsheet?
+ICSE<SEP>F<SEP>ChatGPT-Based Test Generation for Refactoring Engines Enhanced by Feature Analysis on Examples
+ICSE<SEP>F<SEP>ChatGPT Inaccuracy Mitigation during Technical Report Understanding: Are We There Yet?
+ICSE<SEP>F<SEP>Chord: Towards a Unified Detection of Blockchain Transaction Parallelism Bugs
+ICSE<SEP>F<SEP>Closing the Gap: A User Study on the Real-world Usefulness of AI-powered Vulnerability Detection & Repair in the IDE
+ICSE<SEP>F<SEP>ClozeMaster: Fuzzing Rust Compiler by Harnessing LLMs for Infilling Masked Real Programs
+ICSE<SEP>F<SEP>COCA: Generative Root Cause Analysis for Distributed Systems with Code Knowledge
+ICSE<SEP>F<SEP>Code Cloning in Solidity Smart Contracts: Prevalence, Evolution, and Impact on Development
+ICSE<SEP>F<SEP>Code Comment Inconsistency Detection and Rectification Using a Large Language Model
+ICSE<SEP>F<SEP>CodeImprove: Program Adaptation for Deep Code Models
+ICSE<SEP>F<SEP>Code Today, Deadline Tomorrow: Procrastination Among Software Developers
+ICSE<SEP>F<SEP>Combining Fine-Tuning and LLM-based Agents for Intuitive Smart Contract Auditing with Justifications
+ICSE<SEP>F<SEP>Coni: Detecting Database Connector Bugs via State-Aware Test Case Generation
+ICSE<SEP>F<SEP>ConsCS: Effective and Efficient Verification of Circom Circuits
+ICSE<SEP>F<SEP>Constrained LTL Specification Learning from Examples
+ICSE<SEP>F<SEP>Context Conquers Parameters: Outperforming Proprietary LLM in Commit Message Generation
+ICSE<SEP>F<SEP>Cooperative Software Verification via Dynamic Program Splitting
+ICSE<SEP>F<SEP>Critical Variable State-Aware Directed Greybox Fuzzing
+ICSE<SEP>F<SEP>Datalog-Based Language-Agnostic Change Impact Analysis for Microservices
+ICSE<SEP>F<SEP>Decictor: Towards Evaluating the Robustness of Decision-Making in Autonomous Driving Systems
+ICSE<SEP>F<SEP>Decoding Secret Memorization in Code LLMs Through Token-Level Characterization
+ICSE<SEP>F<SEP>Decoding the Issue Resolution Process In Practice via Issue Report Analysis: A Case Study of Firefox
+ICSE<SEP>F<SEP>Deep Learning-based Code Reviews: A Paradigm Shift or a Double-Edged Sword?
+ICSE<SEP>F<SEP>Definition and Detection of Centralization Defects in Smart Contracts
+ICSE<SEP>F<SEP>Demystifying and Detecting Cryptographic Defects in Ethereum Smart Contracts
+ICSE<SEP>F<SEP>DesignRepair: Dual-Stream Design Guideline-Aware Frontend Repair with Large Language Models
+ICSE<SEP>F<SEP>Dissecting Global Search: A Simple yet Effective Method to Boost Individual Discrimination Testing and Repair
+ICSE<SEP>F<SEP>Distilled Lifelong Self-Adaptation for Configurable Systems
+ICSE<SEP>F<SEP>Diversity Drives Fairness: Ensemble of Higher Order Mutants for Intersectional Fairness of Machine Learning Software
+ICSE<SEP>F<SEP>Dockerfile Flakiness: Characterization and Repair
+ICSE<SEP>F<SEP>Does GenAI Make Usability Testing Obsolete?
+ICSE<SEP>F<SEP>DPFuzzer: Discovering Safety Critical Vulnerabilities for Drone Path Planners
+ICSE<SEP>F<SEP>Early Detection of Performance Regressions by Bridging Local Performance Data and Architectural Models
+ICSE<SEP>F<SEP>EffBT: An Efficient Behavior Tree Reactive Synthesis and Execution Framework
+ICSE<SEP>F<SEP>Efficient Domain Augmentation for Autonomous Driving Testing Using Diffusion Models
+ICSE<SEP>F<SEP>Enhancing Code Generation via Bidirectional Comment-Level Mutual Grounding
+ICSE<SEP>F<SEP>Enhancing Fault Localization in Industrial Software Systems via Contrastive Learning
+ICSE<SEP>F<SEP>Enhancing The Open Network: Definition and Automated Detection of Smart Contract Defects
+ICSE<SEP>F<SEP>EP-Detector: Automatic Detection of Error-prone Operation Anomalies in Android Applications
+ICSE<SEP>F<SEP>Evaluating Garbage Collection Performance Across Managed Language Runtimes
+ICSE<SEP>F<SEP>Execution Trace Reconstruction Using Diffusion-Based Generative Models
+ICSE<SEP>F<SEP>exLong: Generating Exceptional Behavior Tests with Large Language Models
+ICSE<SEP>F<SEP>Exploring the Robustness of the Effect of EVO on Intention Valuation through Replication
+ICSE<SEP>F<SEP>Exposing the Hidden Layer: Software Repositories in the Service of SEO Manipulation
+ICSE<SEP>F<SEP>FairChecker: Detecting Fund-stealing Bugs in DeFi Protocols via Fairness Validation
+ICSE<SEP>F<SEP>Fairness Testing through Extreme Value Theory
+ICSE<SEP>F<SEP>FairQuant: Certifying and Quantifying Fairness of Deep Neural Networks
+ICSE<SEP>F<SEP>FairSense: Long-Term Fairness Analysis of ML-Enabled Systems
+ICSE<SEP>F<SEP>FAMOS: Fault diagnosis for Microservice Systems through Effective Multi-modal Data Fusion
+ICSE<SEP>F<SEP>Faster Configuration Performance Bug Testing with Neural Dual-level Prioritization
+ICSE<SEP>F<SEP>Feature-Driven End-To-End Test Generation
+ICSE<SEP>F<SEP>Fidelity of Cloud Emulators: The Imitation Game of Testing Cloud-based Software
+ICSE<SEP>F<SEP>FixDrive: Automatically Repairing Autonomous Vehicle Driving Behaviour for $0.08 per Violation
+ICSE<SEP>F<SEP>Fixing Large Language Models' Specification Misunderstanding for Better Code Generation
+ICSE<SEP>F<SEP>Fork State-Aware Differential Fuzzing for Blockchain Consensus Implementations
+ICSE<SEP>F<SEP>Formally Verified Binary-level Pointer Analysis
+ICSE<SEP>F<SEP>Formally Verified Cloud-Scale Authorization
+ICSE<SEP>F<SEP>From Bugs to Benefits: Improving User Stories by Leveraging Crowd Knowledge with CrUISE-AC
+ICSE<SEP>F<SEP>Fuzzing MLIR Compilers with Custom Mutation Synthesis
+ICSE<SEP>F<SEP>GARL: Genetic Algorithm-Augmented Reinforcement Learning to Detect Violations in Marker-Based Autonomous Landing Systems
+ICSE<SEP>F<SEP>GenC2Rust: Towards Generating Generic Rust Code from C
+ICSE<SEP>F<SEP>"Get Me In The Groove": A Mixed Methods Study on Supporting ADHD Professional Programmers
+ICSE<SEP>F<SEP>Gpass: a Goal-adaptive Neural Theorem Prover based on Coq for Automated Formal Verification
+ICSE<SEP>F<SEP>GVI: Guided Vulnerability Imagination for Boosting Deep Vulnerability Detectors
+ICSE<SEP>F<SEP>HedgeCode: A Multi-Task Hedging Contrastive Learning Framework for Code Search
+ICSE<SEP>F<SEP>Hetrify: Efficient Verification of Heterogeneous Programs on RISC-V
+ICSE<SEP>F<SEP>HIFI: Explaining and Mitigating Algorithmic Bias through the Lens of Game-Theoretic Interactions
+ICSE<SEP>F<SEP>Hints Help Finding and Fixing Bugs Differently in Python and Text-based Program Representations
+ICSE<SEP>F<SEP>How Scientists Use Jupyter Notebooks: Goals, Quality Attributes, and Opportunities
+ICSE<SEP>F<SEP>HumanEvo: An Evolution-aware Benchmark for More Realistic Evaluation of Repository-level Code Generation
+ICSE<SEP>F<SEP>Hyperion: Unveiling DApp Inconsistencies using LLM and Dataflow-Guided Symbolic Execution
+ICSE<SEP>F<SEP>Improved Detection and Diagnosis of Faults in Deep Neural Networks Using Hierarchical and Explainable Classification
+ICSE<SEP>F<SEP>Increasing the Effectiveness of Automatically Generated Tests by Improving Class Observability
+ICSE<SEP>F<SEP>Instruct or Interact? Exploring and Eliciting LLMs’ Capability in Code Snippet Adaptation Through Prompt Engineering
+ICSE<SEP>F<SEP>Instrumentation-Driven Evolution-Aware Runtime Verification
+ICSE<SEP>F<SEP>InSVDF: Interface-State-Aware Virtual Device Fuzzing
+ICSE<SEP>F<SEP>Intention is All You Need: Refining Your Code from Your Intention
+ICSE<SEP>F<SEP>Interactive Cross-Language Pointer Analysis for Resolving Native Code in Java Programs
+ICSE<SEP>F<SEP>InterTrans: Leveraging Transitive Intermediate Translations to Enhance LLM-based Code Translation
+ICSE<SEP>F<SEP>Investigating the Impact of Interpersonal Challenges on Feeling Welcome in OSS
+ICSE<SEP>F<SEP>Invivo Fuzzing by Amplifying Actual Executions
+ICSE<SEP>F<SEP>IRFuzzer: Specialized Fuzzing for LLVM Backend Code Generation
+ICSE<SEP>F<SEP>Iterative Generation of Adversarial Example for Deep Code Models
+ICSE<SEP>F<SEP>Janus: Detecting Rendering Bugs in Web Browsers via Visual Delta Consistency
+ICSE<SEP>F<SEP>Knowledge-Enhanced Program Repair for Data Science Code
+ICSE<SEP>F<SEP>Large Language Models as Configuration Validators
+ICSE<SEP>F<SEP>Large Language Models for Safe Minimization
+ICSE<SEP>F<SEP>Leveraging Large Language Models for Enhancing the Understandability of Generated Unit Tests
+ICSE<SEP>F<SEP>Leveraging Large Language Models to Detect npm Malicious Packages
+ICSE<SEP>F<SEP>Leveraging Propagated Infection to Crossfire Mutants
+ICSE<SEP>F<SEP>LibreLog: Accurate and Efficient Unsupervised Log Parsing Using Open-Source Large Language Models
+ICSE<SEP>F<SEP>LiCoEval: Evaluating LLMs on License Compliance in Code Generation
+ICSE<SEP>F<SEP>Lightweight Concolic Testing via Path-Condition Synthesis for Deep Learning Libraries
+ICSE<SEP>F<SEP>LiSSA: Toward Generic Traceability Link Recovery through Retrieval-Augmented Generation
+ICSE<SEP>F<SEP>LLM-Agents Driven Automated Simulation Testing and Analysis of small Uncrewed Aerial Systems
+ICSE<SEP>F<SEP>LLM-aided Automatic Modeling for Security Protocol Verification
+ICSE<SEP>F<SEP>LLM Assistance for Memory Safety
+ICSE<SEP>F<SEP>LLM Based Input Space Partitioning Testing for Library APIs
+ICSE<SEP>F<SEP>LLMs Meet Library Evolution: Evaluating Deprecated API Usage in LLM-based Code Completion
+ICSE<SEP>F<SEP>LWDIFF: An LLM-Assisted Differential Testing Framework for WebAssembly Runtimes
+ICSE<SEP>F<SEP>Magika: AI-Powered Content-Type Detection
+ICSE<SEP>F<SEP>MARQ: Engineering Mission-Critical AI-based Software with Automated Result Quality Adaptation
+ICSE<SEP>F<SEP>Measuring the Runtime Performance of C++ Code Written by Humans using GitHub Copilot
+ICSE<SEP>F<SEP>Metamorphic-Based Many-Objective Distillation of LLMs for Code-related Tasks
+ICSE<SEP>F<SEP>Mobile Application Coverage: The 30% Curse and Ways Forward
+ICSE<SEP>F<SEP>Mock Deep Testing: Toward Separate Development of Data and Models for Deep Learning
+ICSE<SEP>F<SEP>Model Editing for LLMs4Code: How Far are We?
+ICSE<SEP>F<SEP>Module-Aware Context Sensitive Pointer Analysis
+ICSE<SEP>F<SEP>Moye: A Wallbreaker for Monolithic Firmware
+ICSE<SEP>F<SEP>Navigating the Testing of Evolving Deep Learning Systems: An Exploratory Interview Study
+ICSE<SEP>F<SEP>Neurosymbolic Modular Refinement Type Inference
+ICSE<SEP>F<SEP>NIODebugger: A Novel Approach to Repair Non-Idempotent-Outcome Tests with LLM-Based Agent
+ICSE<SEP>F<SEP>No Harness, No Problem: Oracle-guided Harnessing for Auto-generating C API Fuzzing Harnesses
+ICSE<SEP>F<SEP>On Prescription or Off Prescription? An Empirical Study of Community-prescribed Security Configurations for Kubernetes
+ICSE<SEP>F<SEP>On the Mistaken Assumption of Interchangeable Deep Reinforcement Learning Implementations
+ICSE<SEP>F<SEP>PacDroid: A Pointer-Analysis-Centric Framework for Security Vulnerabilities in Android Apps
+ICSE<SEP>F<SEP>PairSmell: A Novel Perspective Inspecting Software Modular Structure
+ICSE<SEP>F<SEP>Parametric Falsification of Many Probabilistic Requirements under Flakiness
+ICSE<SEP>F<SEP>Patch Synthesis for Property Repair of Deep Neural Networks
+ICSE<SEP>F<SEP>Pattern-based Generation and Adaptation of Quantum Workflows
+ICSE<SEP>F<SEP>Planning a Large Language Model for Static Detection of Runtime Errors in Code Snippets
+ICSE<SEP>F<SEP>Practical Object-Level Sanitizer With Aggregated Memory Access and Custom Allocator
+ICSE<SEP>F<SEP>Preserving Privacy in Software Composition Analysis: A Study of Technical Solutions and Enhancements
+ICSE<SEP>F<SEP>µPRL: a Mutation Testing Pipeline for Deep Reinforcement Learning based on Real Faults
+ICSE<SEP>F<SEP>Prompt-to-SQL Injections in LLM-Integrated Web Applications: Risks and Defenses
+ICSE<SEP>F<SEP>Puppy: Finding Performance Degradation Bugs in DBMSs via Limited-Optimization Plan Construction
+ICSE<SEP>F<SEP>QEDCartographer: Automating Formal Verification Using Reward-Free Reinforcement Learning
+ICSE<SEP>F<SEP>Rango: Adaptive Retrieval-Augmented Proving for Automated Software Verification
+ICSE<SEP>F<SEP>Ranking Relevant Tests for Order-Dependent Flaky Tests
+ICSE<SEP>F<SEP>Reasoning Runtime Behavior of a Program with LLM: How Far Are We?
+ICSE<SEP>F<SEP>REDII: Test Infrastructure to Enable Deterministic Reproduction of Failures for Distributed Systems
+ICSE<SEP>F<SEP>Reduce Dependence for Sound Concurrency Bug Prediction
+ICSE<SEP>F<SEP>Relationship Status: “It’s complicated” Developer-Security Expert Dynamics in Scrum
+ICSE<SEP>F<SEP>RepairAgent: An Autonomous, LLM-Based Agent for Program Repair
+ICSE<SEP>F<SEP>Repository-Level Graph Representation Learning for Enhanced Security Patch Detection
+ICSE<SEP>F<SEP>Revisiting Unnaturalness for Automated Program Repair in the Era of Large Language Models
+ICSE<SEP>F<SEP>RLCoder: Reinforcement Learning for Repository-Level Code Completion
+ICSE<SEP>F<SEP>ROCODE: Integrating Backtracking Mechanism and Program Analysis in Large Language Models for Code Generation
+ICSE<SEP>F<SEP>ROSA: Finding Backdoors with Fuzzing
+ICSE<SEP>F<SEP>RUG: Turbo LLM for Rust Unit Test Generation
+ICSE<SEP>F<SEP>RustAssistant: Using LLMs to Fix Compilation Errors in Rust Code
+ICSE<SEP>F<SEP>SAND: Decoupling Sanitization from Fuzzing for Low Overhead
+ICSE<SEP>F<SEP>Scenario-Driven and Context-Aware Automated Accessibility Testing for Android Apps
+ICSE<SEP>F<SEP>Search-Based LLMs for Code Optimization
+ICSE<SEP>F<SEP>SECRET: Towards Scalable and Efficient Code Retrieval via Segmented Deep Hashing
+ICSE<SEP>F<SEP>SeeAction: Towards Reverse Engineering How-What-Where of HCI Actions from Screencasts for UI Automation
+ICSE<SEP>F<SEP>Selecting Initial Seeds for Better JVM Fuzzing
+ICSE<SEP>F<SEP>Show Me Your Code! Kill Code Poisoning: A Lightweight Method Based on Code Naturalness
+ICSE<SEP>F<SEP>Similar but Patched Code Considered Harmful -- The Impact of Similar but Patched Code on Recurring Vulnerability Detection and How to Remove Them
+ICSE<SEP>F<SEP>SmartReco: Detecting Read-Only Reentrancy via Fine-Grained Cross-DApp Analysis
+ICSE<SEP>F<SEP>SOEN-101: Code Generation by Emulating Software Process Models Using Large Language Model Agents
+ICSE<SEP>F<SEP>Software Model Evolution with Large Language Models: Experiments on Simulated, Public, and Industrial Datasets
+ICSE<SEP>F<SEP>Source Code Summarization in the Era of Large Language Models
+ICSE<SEP>F<SEP>SpecGen: Automated Generation of Formal Program Specifications via Large Language Models
+ICSE<SEP>F<SEP>SpecRover: Code Intent Extraction via LLMs
+ICSE<SEP>F<SEP>Static Analysis of Remote Procedure Call in Java Programs
+ICSE<SEP>F<SEP>Studying Programmers Without Programming: Investigating Expertise Using Resting State fMRI
+ICSE<SEP>F<SEP>Synthesizing Document Database Queries using Collection Abstractions
+ICSE<SEP>F<SEP>TacDroid: Detection of Illicit Apps through Hybrid Analysis of UI-based Transition Graphs
+ICSE<SEP>F<SEP>Template-Guided Program Repair in the Era of Large Language Models
+ICSE<SEP>F<SEP>Testing and Understanding Deviation Behaviors in FHE-hardened Machine Learning Models
+ICSE<SEP>F<SEP>Test Intention Guided LLM-based Unit Test Generation
+ICSE<SEP>F<SEP>Thanos: DBMS Bug Detection via Storage Engine Rotation Based Differential Testing
+ICSE<SEP>F<SEP>The Design Smells Breaking the Boundary between Android Variants and AOSP
+ICSE<SEP>F<SEP>The Fact Selection Problem in LLM-Based Program Repair
+ICSE<SEP>F<SEP>The Power of Types: Exploring the Impact of Type Checking on Neural Bug Detection in Dynamically Typed Languages
+ICSE<SEP>F<SEP>The Product Beyond the Model -- An Empirical Study of Repositories of Open-Source ML Products
+ICSE<SEP>F<SEP>The Same Only Different: On Information Modality for Configuration Performance Analysis
+ICSE<SEP>F<SEP>The Seeds of the FUTURE Sprout from History: Fuzzing for Unveiling Vulnerabilities in Prospective Deep-Learning Libraries
+ICSE<SEP>F<SEP>TIGER: A Generating-Then-Ranking Framework for Practical Python Type Inference
+ICSE<SEP>F<SEP>TIVER: Identifying Adaptive Versions of C/C++ Third-Party Open-Source Components Using a Code Clustering Technique
+ICSE<SEP>F<SEP>TOGLL: Correct and Strong Test Oracle Generation with LLMs
+ICSE<SEP>F<SEP>TopSeed: Learning Seed Selection Strategies for Symbolic Execution from Scratch
+ICSE<SEP>F<SEP>Toward a Better Understanding of Probabilistic Delta Debugging
+ICSE<SEP>F<SEP>Towards Better Answers: Automated Stack Overflow Post Updating
+ICSE<SEP>F<SEP>Towards High-strength Combinatorial Interaction Testing for Highly Configurable Software Systems
+ICSE<SEP>F<SEP>Towards More Trustworthy Deep Code Models by Enabling Out-of-Distribution Detection
+ICSE<SEP>F<SEP>Towards Neural Synthesis for SMT-assisted Proof-Oriented Programming
+ICSE<SEP>F<SEP>Towards Understanding the Characteristics of Code Generation Errors Made by Large Language Models
+ICSE<SEP>F<SEP>TraceFL: Interpretability-Driven Debugging in Federated Learning via Neuron Provenance
+ICSE<SEP>F<SEP>TransferFuzz: Fuzzing with Historical Trace for Verifying Propagated Vulnerability Code
+ICSE<SEP>F<SEP>Treefix: Enabling Execution with a Tree of Prefixes
+ICSE<SEP>F<SEP>Trust Dynamics in AI-Assisted Development: Definitions, Factors, and Implications
+ICSE<SEP>F<SEP>Tumbling Down the Rabbit Hole: How do Assisting Exploration Strategies Facilitate Grey-box Fuzzing?
+ICSE<SEP>F<SEP>UML is Back. Or is it? Investigating the Past, Present, and Future of UML in Open Source Software
+ICSE<SEP>F<SEP>Unavoidable Boundary Conditions: A Control Perspective on Goal Conflicts
+ICSE<SEP>F<SEP>Understanding and Detecting Peer Dependency Resolving Loop in npm Ecosystem
+ICSE<SEP>F<SEP>Understanding Architectural Complexity, Maintenance Burden, and Developer Sentiment---a Large-Scale Study
+ICSE<SEP>F<SEP>Understanding Compiler Bugs in Real Development
+ICSE<SEP>F<SEP>Understanding the Effectiveness of Coverage Criteria for Large Language Models: A Special Angle from Jailbreak Attacks
+ICSE<SEP>F<SEP>Understanding the Response to Open-Source Dependency Abandonment in the npm Ecosystem
+ICSE<SEP>F<SEP>Unleashing the True Potential of Semantic-based Log Parsing with Pre-trained Language Models
+ICSE<SEP>F<SEP>Unseen Horizons: Unveiling the Real Capability of LLM Code Generation Beyond the Familiar
+ICSE<SEP>F<SEP>Unveiling the Energy Vampires: A Methodology for Debugging Software Energy Consumption
+ICSE<SEP>F<SEP>User Personas Improve Social Sustainability by Encouraging Software Developers to Deprioritize Antisocial Features
+ICSE<SEP>F<SEP>Vulnerability Detection with Code Language Models: How Far Are We?
+ICSE<SEP>F<SEP>WDD: Weighted Delta Debugging
+ICSE<SEP>F<SEP>Weakly-supervised Log-based Anomaly Detection with Inexact Labels via Multi-instance Learning
+ICSE<SEP>F<SEP>What Guides Our Choices? Modeling Developers' Trust and Behavioral Intentions Towards GenAI
+ICSE<SEP>F<SEP>What You See Is What You Get: Attention-based Self-guided Automatic Unit Test Generation
+ICSE<SEP>F<SEP>When Quantum Meets Classical: Characterizing Hybrid Quantum-Classical Issues Discussed in Developer Forums
+ICSE<SEP>F<SEP>Who’s Pushing the Code: An Exploration of GitHub Impersonation
+ICSE<SEP>F<SEP>Your Fix Is My Exploit: Enabling Comprehensive DL Library API Fuzzing with Large Language Models
+ICSE<SEP>F<SEP>$ZTD_{JAVA}$: Mitigating Software Supply Chain Vulnerabilities via Zero-Trust Dependencies
+ICSME<SEP>F<SEP>Adoption and Evolution of Code Style and Best Programming Practices in Open-Source Projects
+ICSME<SEP>F<SEP>ADPP: Automated Data-centric Program Partitioning
+ICSME<SEP>F<SEP>A Jump-Table-Agnostic Switch Recovery on ASTs
+ICSME<SEP>F<SEP>An Efficient Android App Debloating Approach Based on Multi-layer Dependence Graph
+ICSME<SEP>F<SEP>APIDocBooster: An Extract-Then-Abstract Framework Leveraging Large Language Models for Augmenting API Documentation
+ICSME<SEP>F<SEP>Are All Code Reviews the Same? Identifying and Assessing the Impact of Merge Request Deviations
+ICSME<SEP>F<SEP>Are Classical Clone Detectors Good Enough For the AI Era?
+ICSME<SEP>F<SEP>AST-Enhanced or AST-Overloaded? The Surprising Impact of Hybrid Graph Representations on Code Clone Detection
+ICSME<SEP>F<SEP>A Taxonomy of Inefficiencies in LLM-Generated Code
+ICSME<SEP>F<SEP>Automatically Augmenting GitHub Issues with Informative User Reviews
+ICSME<SEP>F<SEP>Boosting Log Observability in Production Systems through Bytecode-Driven Fault Variable Tracking
+ICSME<SEP>F<SEP>Boosting Redundancy-based Automated Program Repair by Fine-grained Pattern Mining
+ICSME<SEP>F<SEP>Bridging Solidity Evolution Gaps: An LLM-Enhanced Approach for Smart Contract Compilation Error Resolution
+ICSME<SEP>F<SEP>Can LLMs Update API Documentation?
+ICSME<SEP>F<SEP>Characterizing the System Evolution That is Proposed After a Software Incident
+ICSME<SEP>F<SEP>Code Property Graph Meets Typestate: A Scalable Framework to Behavioral Bug Detection
+ICSME<SEP>F<SEP>Does Editing Improve Answer Quality on Stack Overflow? A Data-Driven Investigation
+ICSME<SEP>F<SEP>Enhanced Vulnerability Localization: Harmonizing Task-Enhanced Tuning and General LLM Prompting
+ICSME<SEP>F<SEP>Evaluating the maintainability of Forward-Porting vulnerabilities in fuzzer benchmarks
+ICSME<SEP>F<SEP>Evaluation of the Language Server Protocol for Static Dependency Analysis
+ICSME<SEP>F<SEP>From Release to Adoption: Challenges in Reusing Pre-trained AI Models for Downstream Developers
+ICSME<SEP>F<SEP>Harnessing LLMs for Document-Guided Fuzzing of OpenCV Library
+ICSME<SEP>F<SEP>"Let it be Chaos in the Plumbing!" Usage and Efficacy of Chaos Engineering in DevOps Pipelines
+ICSME<SEP>F<SEP>LLM-SZZ: Novel Vulnerability Affected Range Identification Driven by Large Language Model and CVE Description
+ICSME<SEP>F<SEP>Metamorphic Testing of Large Language Models for Natural Language Processing
+ICSME<SEP>F<SEP>Nüwa: Enhancing MLIR Fuzzing with LLM-Driven Generation and Adaptive Mutation
+ICSME<SEP>F<SEP>Onweer: Automated Resilience Testing through Fuzzing
+ICSME<SEP>F<SEP>OptionFuzz: Fuzzing SMT Solvers with Optimized Option Exploration via Large Language Models
+ICSME<SEP>F<SEP>Performance Testing in Open-Source Web Projects: Adoption, Maintenance, and a Change Taxonomy
+ICSME<SEP>F<SEP>Quantization Is Not a Dealbreaker: Empirical Insights from Large Code Models
+ICSME<SEP>F<SEP>Refactoring Deep Learning Code: A Study of Practices and Unsatisfied Tool Needs
+ICSME<SEP>F<SEP>Retrieve, Refine, or Both? Using Task-Specific Guidelines for Secure Python Code Generation
+ICSME<SEP>F<SEP>RMGenie: An LLM-Based Agent Framework for Open Source Software README Generation
+ICSME<SEP>F<SEP>Roseau: Fast, Accurate, Source-based Breaking Change Analysis in Java
+ICSME<SEP>F<SEP>SAEL: Leveraging Large Language Models with Adaptive Mixture-of-Experts for Smart Contract Vulnerability Detection
+ICSME<SEP>F<SEP>Security Vulnerabilities in Docker Images: A Cross-Tag Study of Application Dependencies
+ICSME<SEP>F<SEP>Social Media Reactions to Open Source Promotions: AI-Powered GitHub Projects on Hacker News
+ICSME<SEP>F<SEP>Software Fairness Testing in Practice
+ICSME<SEP>F<SEP>Syntest-ACR: Automated Crash Reproduction for JavaScript
+ICSME<SEP>F<SEP>The Impact of Fine-tuning Large Language Models on Automated Program Repair
+ICSME<SEP>F<SEP>Together We Are Better: LLM, IDE and Semantic Embedding to Assist Move Method Refactoring
+ICSME<SEP>F<SEP>Toward Realistic Evaluations of Just-In-Time Vulnerability Prediction
+ICSME<SEP>F<SEP>Trust and Verify: Formally Verified and Upgradable Trusted Functions
+ICSME<SEP>F<SEP>TSGuard: Detecting Logic Bugs in Time Series Management Systems via Time Series Algebra
+ICSME<SEP>F<SEP>Understanding the Faults in Serverless Computing Based Applications: An Empirical Study
+ICST<SEP>F<SEP>An Analysis of LLM Fine-Tuning and Few-Shot Learning for Flaky Test Detection and Classification
+ICST<SEP>F<SEP>An empirical study of web flaky tests: Understanding and unveiling DOM event interaction challenges
+ICST<SEP>F<SEP>A Taxonomy of Integration-relevant Faults for Microservice Testing
+ICST<SEP>F<SEP>AugmenTest: Enhancing Tests with LLM-driven Oracles
+ICST<SEP>F<SEP>Benchmarking Generative AI Models for Deep Learning Test Input Generation
+ICST<SEP>F<SEP>Benchmarking Image Perturbations for Testing Automated Driving Assistance Systems
+ICST<SEP>F<SEP>Benchmarking Open-source Large Language Models For Log Level Suggestion
+ICST<SEP>F<SEP>Challenges, Strategies, and Impacts: A Qualitative Study on UI Testing in CI/CD Processes from GitHub Developers’ Perspectives
+ICST<SEP>F<SEP>Code, Test and Coverage Evolution in Mature Software Systems: Changes over the Past Decade
+ICST<SEP>F<SEP>Coverage Metrics for T-Wise Feature Interactions
+ICST<SEP>F<SEP>Detecting and evaluating order-dependent flaky tests in JavaScript
+ICST<SEP>F<SEP>Differential Testing of Concurrent Classes
+ICST<SEP>F<SEP>Evaluating the Effectiveness of LLMs in Detecting Security Vulnerabilities
+ICST<SEP>F<SEP>Hybrid Equivalence/Non-Equivalence Testing
+ICST<SEP>F<SEP>Impact of Large Language Models of Code on Fault Localization
+ICST<SEP>F<SEP>Improving the Readability of Automatically Generated Tests using Large Language Models
+ICST<SEP>F<SEP>Many-Objective Neuroevolution for Testing Games
+ICST<SEP>F<SEP>Metamorphic Testing for Pose Estimation Systems
+ICST<SEP>F<SEP>Multi-Project Just-in-Time Software Defect Prediction Based on Multi-Task Learning for Mobile Applications
+ICST<SEP>F<SEP>Mutation-based Fuzzing of the Swift Compiler With Incomplete Type Information
+ICST<SEP>F<SEP>On Accelerating Deep Neural Network Mutation Analysis by Neuron and Mutant Clustering
+ICST<SEP>F<SEP>On The Energy Consumption of Test Generation
+ICST<SEP>F<SEP>[prerecorded] ADGE: Automated Directed GUI Explorer for Android Applications
+ICST<SEP>F<SEP>RustyRTS: Regression Test Selection for Rust
+ICST<SEP>F<SEP>Scalable SMT Sampling for Floating-point Formulas via Coverage-guided Fuzzing
+ICST<SEP>F<SEP>SPIDER: Fuzzing for Stateful Performance Issues in the ONOS Software-Defined Network Controller
+ICST<SEP>F<SEP>Suspicious Types and Bad Neighborhoods- Filtering Spectra with Compiler Information
+ICST<SEP>F<SEP>Testing Practices, Challenges, and Developer Perspectives in Open-Source IoT Platforms
+ICST<SEP>F<SEP>Test Wars: A Comparative Study of SBST, Symbolic Execution, and LLM-Based Approaches to Unit Test Generation
+ICST<SEP>F<SEP>The Impact of List Reduction for Language Agnostic Test Case Reducers
+ICST<SEP>F<SEP>Turbulence: Systematically and Automatically Testing Instruction-Tuned Large Language Models for Code
+ICST<SEP>F<SEP>Understanding and Enhancing Attribute Prioritization in Fixing Web UI Tests with LLMs
+SANER<SEP>F<SEP>Adapting Knowledge Prompt Tuning for Enhanced Automated Program Repair
+SANER<SEP>F<SEP>AdvFusion: Adapter-based Knowledge Transfer for Code Summarization on Code Language Models
+SANER<SEP>F<SEP>A First Look at Package-to-Group Mechanism: An Empirical Study of the Linux Distributions
+SANER<SEP>F<SEP>ALOGO: A Novel and Effective Framework for Online Cross-project Defect Prediction
+SANER<SEP>F<SEP>A Metric for Measuring the Impact of Rare Paths on Program Coverage
+SANER<SEP>F<SEP>A Multi-Language Tool for Generating Unit Tests from Execution Traces
+SANER<SEP>F<SEP>Analysing Software Supply Chains of Infrastructure as Code: Extraction of Ansible Plugin Dependencies
+SANER<SEP>F<SEP>An Empirical Study of Transformer Models on Automatically Templating GitHub Issue Reports
+SANER<SEP>F<SEP>An Empirical Study on Microservices Deployment Trends, Topics and Challenges in Stack Overflow
+SANER<SEP>F<SEP>An ensemble learning method based on neighborhood granularity discrimination index and its application in software defect prediction
+SANER<SEP>F<SEP>A Progressive Transformer for Unifying Binary Code Embedding and Knowledge Transfer
+SANER<SEP>F<SEP>Beyond pip install: Evaluating LLM agents for the automated installation of Python projects
+SANER<SEP>F<SEP>BinEGA: Enhancing DNN-based Binary Code Similarity Detection through Efficient Graph Alignment
+SANER<SEP>F<SEP>Can Large Language Models Discover Metamorphic Relations? A Large-Scale Empirical Study
+SANER<SEP>F<SEP>Can We Trust the Actionable Guidance from Explainable AI Techniques in Defect Prediction?
+SANER<SEP>F<SEP>CapAssess: An Endeavor to Assess and Enhance Linux Capabilities Utilization
+SANER<SEP>F<SEP>Characterizing Logs in Vulnerability Reports: In-Depth Analysis and Security Implications
+SANER<SEP>F<SEP>Conan: Uncover Consensus Issues in Distributed Databases Using Fuzzing-driven Fault Injection
+SANER<SEP>F<SEP>Cross-System Software  Log-based Anomaly Detection Using Meta-Learning
+SANER<SEP>F<SEP>CSE-WSS: Code Structure Enhancement Framework with Weighted Semantic Similarity for Changeset-based Bug Localization
+SANER<SEP>F<SEP>Deep Smart Contract Intent Detection
+SANER<SEP>F<SEP>Dissecting APKs from Google Play: Trends, Insights and Security Implications
+SANER<SEP>F<SEP>Distinguishability-guided Test Program Generation for WebAssembly Runtime Performance Testing
+SANER<SEP>F<SEP>EarlyPR: Early Prediction of Potential  Pull-Requests from Forks
+SANER<SEP>F<SEP>Enhancing Automated Vulnerability Repair through Dependency Embedding and Pattern Store
+SANER<SEP>F<SEP>Enhancing Microservice Migration Transformation from Monoliths with Graph Neural Networks
+SANER<SEP>F<SEP>Evaluating Software Development Agents: Patch Patterns, Code Quality, and Issue Complexity in Real-World GitHub Scenarios
+SANER<SEP>F<SEP>Evaluating the Effectiveness and Efficiency of Demonstration Retrievers in RAG for Code Tasks
+SANER<SEP>F<SEP>Evaluating the Effectiveness of LLMs in Fixing Maintainability Issues in Real-World Projects
+SANER<SEP>F<SEP>Exploring the Potential of Llama Models in Automated Code Refinement: A Replication Study
+SANER<SEP>F<SEP>From Bug Reports to Workarounds: The Real-World Impact of Compiler Bugs
+SANER<SEP>F<SEP>Generating and Contributing Test Cases for C Libraries from Client Code: A Case Study
+SANER<SEP>F<SEP>How Effective are Large Language Models in Generating Software Specifications?
+SANER<SEP>F<SEP>How to Select Pre-Trained Code Models for Reuse? A Learning Perspective
+SANER<SEP>F<SEP>Improving API Knowledge Comprehensibility: A Context-Dependent Entity Detection and Context Completion Approach using LLM
+SANER<SEP>F<SEP>Improving Evidence-Based Tech Hiring with GitHub-Supported Resume Matching
+SANER<SEP>F<SEP>Is This You, LLM? Recognizing AI-written Programs with Multilingual Code Stylometry
+SANER<SEP>F<SEP>On the Compression of Language Models for Code: An Empirical Study on CodeBERT
+SANER<SEP>F<SEP>Optimizing Class Integration Testing with Criticality-Driven Test Order Generation
+SANER<SEP>F<SEP>Pay Your Attention on Lib! Android Third-Party Library Detection via Feature Language Model
+SANER<SEP>F<SEP>Preprocessing is All You Need: Boosting the Performance of Log Parsers With a General Preprocessing Framework
+SANER<SEP>F<SEP>Protect Your Secrets: Understanding and Measuring Data Exposure in VSCode Extensions
+SANER<SEP>F<SEP>Specification Mining for Smart Contracts with Trace Slicing and Predicate Abstraction
+SANER<SEP>F<SEP>SpeedGen: Enhancing Code Efficiency through Large Language Model-Based Performance Optimization
+SANER<SEP>F<SEP>Stack Trace Deduplication: Faster, More Accurately, and in More Realistic Scenarios
+SANER<SEP>F<SEP>StriCT-BJ: A String Constraint Benchmark from Real Java Programs
+SANER<SEP>F<SEP>The Hidden Challenges of Merging: A Tool-Based Exploration
+SANER<SEP>F<SEP>THINK: Tackling API Hallucinations in LLMs via Injecting Knowledge
+SANER<SEP>F<SEP>Towards Change Impact Analysis in Microservices-based System Evolution
+SANER<SEP>F<SEP>TRACETS4J: A Traceable Unit Test Generation Dataset
+SANER<SEP>F<SEP>WakeMint: Detecting Sleepminting Vulnerabilities in NFT Smart Contracts
+SANER<SEP>F<SEP>Why Do Developers Engage with ChatGPT in Issue-Tracker? Investigating Usage and Reliance on ChatGPT-Generated Code
+ICPC<SEP>F<SEP>Advancing Large Language Models in Code Generation: USACO Benchmark and Bug Mitigation Insights
+ICPC<SEP>F<SEP>AI-based automated grading of source code of introductory programming assignments
+ICPC<SEP>F<SEP>Algorithmic Inversion: A Learnable Algorithm Representation for Code Generation
+ICPC<SEP>F<SEP>An Analysis of Students' Program Comprehension Processes in a Large Code Base
+ICPC<SEP>F<SEP>Attributed Multiplex Learning for Analogical Third-Party Library Recommendation and Retrieval
+ICPC<SEP>F<SEP>Building Bridges, Not Walls: Fairness-aware and Accurate Recommendation of Code Reviewers via LLM-based Agents Collaboration
+ICPC<SEP>F<SEP>CalmDroid: Core-Set Based Active Learning for Multi-Label Android Malware Detection
+ICPC<SEP>F<SEP>Characterizing Bugs in Login Processes of Android Applications: An Empirical Study
+ICPC<SEP>F<SEP>CLCoSum: Curriculum Learning-based Code Summarization for Code Language Models
+ICPC<SEP>F<SEP>CMDeSum: A Cross-Modal Deliberation Network for Code Summarization
+ICPC<SEP>F<SEP>Code Ranking with Structure Awareness Contrastive Learning
+ICPC<SEP>F<SEP>Code Review Comprehension: Reviewing Strategies Seen Through Code Comprehension Theories
+ICPC<SEP>F<SEP>COFT: Making Large Language Models Better zero-shot Learners for Code Generation
+ICPC<SEP>F<SEP>Combining Language and App UI Analysis for the Automated Assessment of Bug Reproduction Steps
+ICPC<SEP>F<SEP>Developing a Taxonomy for Advanced Log Parsing Techniques
+ICPC<SEP>F<SEP>DLCoG: A Novel Framework for Dual-Level Code Comment Generation based on Semantic Segmentation and In-Context Learning
+ICPC<SEP>F<SEP>Effectively Modeling UI Transition Graphs for Android Apps via Reinforcement Learning
+ICPC<SEP>F<SEP>Enhancing Code Generation for Low-Resource Languages: No Silver Bullet
+ICPC<SEP>F<SEP>Explaining GitHub Actions Failures with Large Language Models: Challenges, Insights, and Limitations
+ICPC<SEP>F<SEP>Extracting Formal Specifications from Documents Using LLMs for Test Automation
+ICPC<SEP>F<SEP>GELog:A GPT-Enhanced Log Representation Method for Anomaly Detection
+ICPC<SEP>F<SEP>Improved IR-based Bug Localization with Intelligent Relevance Feedback
+ICPC<SEP>F<SEP>JavaWiz: A Trace-Based Graphical Debugger for Software Development Education
+ICPC<SEP>F<SEP>KotSuite: Unit Test Generation for Kotlin Programs in Android Applications
+ICPC<SEP>F<SEP>Large Language Models are Qualified Benchmark Builders: Rebuilding Pre-Training Datasets for Advancing Code Intelligence Tasks
+ICPC<SEP>F<SEP>Leveraging Context Information for Self-Admitted Technical Debt Detection
+ICPC<SEP>F<SEP>LLM-BL: Large Language Models are Zero-Shot Rankers for Bug Localization
+ICPC<SEP>F<SEP>Log Parsing using LLMs with Self-Generated In-Context Learning and Self-Correction
+ICPC<SEP>F<SEP>Method Names in Jupyter Notebooks: An Exploratory Study
+ICPC<SEP>F<SEP>On the Possibility of Breaking Copyleft Licenses When Reusing Code Generated by ChatGPT
+ICPC<SEP>F<SEP>Optimizing Datasets for Code Summarization: Is Code-Comment Coherence Enough?
+ICPC<SEP>F<SEP>Pinpointing the Learning Obstacles of an Interactive Theorem Prover
+ICPC<SEP>F<SEP>Quality In, Quality Out: Investigating Training Data's Role in AI Code Generation
+ICPC<SEP>F<SEP>Session's Discussion: "Code Generation"
+ICPC<SEP>F<SEP>Session's Discussion: "Education, Debugging, Dynamic Analysis"
+ICPC<SEP>F<SEP>Session's Discussion: "Empirical Findings, Future Visions, Recommendations"
+ICPC<SEP>F<SEP>Session's Discussion: "Log Parsing, Bug Localisation, Review Comprehension"
+ICPC<SEP>F<SEP>Session's Discussion: "Summarisation, Natural Language Generation"
+ICPC<SEP>F<SEP>Session's Discussion: "Vulnerabilities, Technical Debt, Defects"
+ICPC<SEP>F<SEP>Slicing-Based Approach for Detecting and Patching Vulnerable Code Clones
+ICPC<SEP>F<SEP>Sonar: Detecting Logic Bugs in DBMS through Generating Semantic-aware Non-Optimizing Query
+ICPC<SEP>F<SEP>Studying How Configurations Impact Code Generation in LLMs: the Case of ChatGPT
+ICPC<SEP>F<SEP>Terminal Lucidity: Envisioning the Future of the Terminal
+ICPC<SEP>F<SEP>Towards Task-Harmonious Vulnerability Assessment based on LLM
+MSR<SEP>F<SEP>50 Years of Programming Language Evolution through the Software Heritage looking glass
+MSR<SEP>F<SEP>An Empirical Study on Leveraging Images in Automated Bug Report Reproduction
+MSR<SEP>F<SEP>A Public Benchmark of REST APIs
+MSR<SEP>F<SEP>Are the Majority of Public Computational Notebooks Pathologically Non-Executable?
+MSR<SEP>F<SEP>Automatic High-Level Test Case Generation using Large Language Models
+MSR<SEP>F<SEP>Build Scripts Need Maintenance Too: A Study on Refactoring and Technical Debt in Build Systems
+MSR<SEP>F<SEP>Can LLMs Generate Higher Quality Code Than Humans? An Empirical Study
+MSR<SEP>F<SEP>Can LLMs Replace Manual Annotation of Software Engineering Artifacts?
+MSR<SEP>F<SEP>Combining Large Language Models with Static Analyzers for Code Review Generation
+MSR<SEP>F<SEP>Does Functional Package Management Enable Reproducible Builds at Scale? Yes.
+MSR<SEP>F<SEP>Do LLMs Provide Links to Code Similar to what they Generate? A Study with Gemini and Bing CoPilot
+MSR<SEP>F<SEP>Enhancing Just-In-Time Defect Prediction Models with Developer-Centric Features
+MSR<SEP>F<SEP>Evidence is All We Need: Do Self-Admitted Technical Debts Impact Method-Level Maintenance?
+MSR<SEP>F<SEP>From Industrial Practices to Academia: Uncovering the Gap in Vulnerability Research and Practice
+MSR<SEP>F<SEP>Good practice versus reality: a landscape analysis of Research Software metadata adoption in European Open Science Clusters
+MSR<SEP>F<SEP>Harnessing Large Language Models for Curated Code Reviews
+MSR<SEP>F<SEP>How Do Infrastructure-as-Code Practitioners Update Their Dependencies? An Empirical Study on Terraform Module Updates
+MSR<SEP>F<SEP>How Effective are LLMs for Data Science Coding? A Controlled Experiment
+MSR<SEP>F<SEP>How Much Do Code Language Models Remember? An Investigation on Data Extraction Attacks before and after Fine-tuning
+MSR<SEP>F<SEP>Inferring Questions from Programming Screenshots
+MSR<SEP>F<SEP>Intelligent Semantic Matching (ISM) for Video Tutorial Search using Transformer Models
+MSR<SEP>F<SEP>Investigating the Understandability of Review Comments on Code Change Requests
+MSR<SEP>F<SEP>Is it Really Fun? Detecting Low Engagement Events in Video Games
+MSR<SEP>F<SEP>It’s About Time: An Empirical Study of Date and Time Bugs in Open-Source Python Software
+MSR<SEP>F<SEP>It Works (only) on My Machine: A Study on Reproducibility Smells in Ansible Scripts
+MSR<SEP>F<SEP>Keynote
+MSR<SEP>F<SEP>Language Models in Software Development Tasks: An Experimental Analysis of Energy and Accuracy
+MSR<SEP>F<SEP>Learning from Mistakes: Understanding Ad-hoc Logs through Analyzing Accidental Commits
+MSR<SEP>F<SEP>LLMSecConfig: An LLM-Based Approach for Fixing Software Container Misconfigurations
+MSR<SEP>F<SEP>Mining a Decade of Contributor Dynamics in Ethereum: A Longitudinal Study
+MSR<SEP>F<SEP>On the calibration of Just-in-time Defect Prediction
+MSR<SEP>F<SEP>Opening Session and Award Announcement
+MSR<SEP>F<SEP>Prompt Engineering or Fine-Tuning: An Empirical Assessment of LLMs for Code
+MSR<SEP>F<SEP>Prompting in the Wild: An Empirical Study of Prompt Evolution in Software Repositories
+MSR<SEP>F<SEP>PyExamine: A Comprehensive, Un-Opinionated Smell Detection Tool for Python
+MSR<SEP>F<SEP>Refactoring for Dockerfile Quality: A Dive into Developer Practices and Automation Potential
+MSR<SEP>F<SEP>Revisiting Defects4J for Fault Localization in Diverse Development Scenarios
+MSR<SEP>F<SEP>Should Code Models Learn Pedagogically? A Preliminary Evaluation of Curriculum Learning for Real-World Software Engineering Tasks
+MSR<SEP>F<SEP>SMATCH-M-LLM: Semantic Similarity in Metamodel Matching With Large Language Models
+MSR<SEP>F<SEP>Smells-sus: Sustainability Smells in IaC
+MSR<SEP>F<SEP>Software Composition Analysis and Supply Chain Security in Apache Projects: an Empirical Study
+MSR<SEP>F<SEP>The Ecosystem of Open-Source Music Production Software – A Mining Study on the Development Practices of VST Plugins on GitHub
+MSR<SEP>F<SEP>Too Noisy To Learn: Enhancing Data Quality for Code Review Comment Generation
+MSR<SEP>F<SEP>Towards Detecting Prompt Knowledge Gaps for Improved LLM-guided Issue Resolution
+MSR<SEP>F<SEP>Towards Security Commit Message Standardization
+MSR<SEP>F<SEP>TriGraph: A Probabilistic Subgraph-Based Model for Visual Code Completion in Pure Data
+MSR<SEP>F<SEP>Understanding Test Deletion in Java Applications
+MSR<SEP>F<SEP>What Do Contribution Guidelines Say About Software Testing?
+MSR<SEP>F<SEP>Wolves in the Repository: A Software Engineering Analysis of the XZ Utils Supply Chain Attack
+ESEM<SEP>F<SEP>A Defect Taxonomy for Infrastructure as Code Scripts: A Replication Study
+ESEM<SEP>F<SEP>Aggregating empirical evidence from data strategies studies: a case on model quantization
+ESEM<SEP>F<SEP>Another Systematic Review? A Critical Analysis of Systematic Literature Reviews on Agile Effort and Cost Estimation
+ESEM<SEP>F<SEP>Assessing diversity in creating seed set for snowballing search for systematic literature review in software engineering
+ESEM<SEP>F<SEP>Beyond Binary Moderation: Identifying Fine-Grained Sexist and Misogynistic Behavior on GitHub with Large Language Models
+ESEM<SEP>F<SEP>Can User Feedback Help Issue Detection? An Empirical Study on a One-billion-user Online Service System
+ESEM<SEP>F<SEP>Developer Prompts in Practice: An Empirical Study of Bias, Security, and Optimization
+ESEM<SEP>F<SEP>Exploring Engagement in Hybrid Meetings
+ESEM<SEP>F<SEP>Exploring the Jupyter Ecosystem: An Empirical Study of Bugs and Vulnerabilities
+ESEM<SEP>F<SEP>Go-Oracle: Automated Test Oracle for Go Concurrency Bugs
+ESEM<SEP>F<SEP>How Do Community Smells Influence Self-Admitted Technical Debt in Machine Learning Projects?
+ESEM<SEP>F<SEP>Interrogative Comments Posed by Review Comment Generators: An Empirical Study of Gerrit
+ESEM<SEP>F<SEP>Is Diversity a Meaningful Metric in Fairness Testing?
+ESEM<SEP>F<SEP>Is LLM-Generated Code More Maintainable & Reliable than Human-Written Code?
+ESEM<SEP>F<SEP>Mapping Code Smells and Refactorings Accurately: Insights from an Empirical Study
+ESEM<SEP>F<SEP>One Size Does Not Fit All: How To Organize Hybrid Work In Agile Software Development?
+ESEM<SEP>F<SEP>On the Harmfulness of Test Smells in Manual System Testing: A Controlled Experiment
+ESEM<SEP>F<SEP>Perspectives, Needs and Challenges for Sustainable Software Engineering Teams: A FinServ Case Study
+ESEM<SEP>F<SEP>Secret Breach Detection in Source Code with Large Language Models
+ESEM<SEP>F<SEP>SESR-Eval: Dataset to Evaluate LLMs in the Screening Process of Systematic Reviews
+ESEM<SEP>F<SEP>SIExVulTS: Sensitive Information Exposure Vulnerability Detection System using Transformer Models and Static Analysis
+ESEM<SEP>F<SEP>The Shifting Sands of Toxicity: The Evolving Nature of Interpersonal Challenges in Open Source
+ESEM<SEP>F<SEP>Understanding Everything as Code: A Taxonomy and Conceptual Model
+ESEM<SEP>F<SEP>Using Voting and Stacking Ensemble Techniques to Optimize Software Requirements Classification
+ESEM<SEP>F<SEP>We Know What You're Looking For: Recommendation for Large-Scale Open Source Software
+ESEM<SEP>F<SEP>What About Our Bug? A Study on the Responsiveness of NPM Package Maintainers
+ESEM<SEP>F<SEP>When Domains Collide: An Activity Theory Exploration of Cross-Disciplinary Collaboration
+ESEM<SEP>F<SEP>Where Tests Fall Short: Empirically Analyzing Oracle Gaps in Covered Code
+FSE<SEP>F<SEP>HTTP Errors
+ASE<SEP>F<SEP>Anonymous Errors
+ISSTA<SEP>F<SEP>HTTP Errors
+EASE<SEP>F<SEP>Anonymous Errors
